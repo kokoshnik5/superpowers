@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[37,)"
+license="MIT"
+
+[[mods]]
+modId="superpowers"
+version="${file.jarVersion}"
+displayName="Super Powers"
+description='''
+Dash, power punch, ground slam and flight on hotkeys.
+'''
+
+[[dependencies.superpowers]]
+    modId="forge"
+    mandatory=true
+    versionRange="[37,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.superpowers]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.17.1]"
+    ordering="NONE"
+    side="BOTH"

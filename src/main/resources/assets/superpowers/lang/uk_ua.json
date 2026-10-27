@@ -1,0 +1,10 @@
+{
+  "key.categories.superpowers": "Суперсили",
+  "key.superpowers.dash": "Ривок",
+  "key.superpowers.punch": "Потужний удар",
+  "key.superpowers.slam": "Удар по землі",
+  "key.superpowers.flight": "Увімк./вимк. політ",
+  "message.superpowers.cooldown": "Перезарядка: %s с",
+  "message.superpowers.flight_on": "Політ увімкнено",
+  "message.superpowers.flight_off": "Політ вимкнено"
+}

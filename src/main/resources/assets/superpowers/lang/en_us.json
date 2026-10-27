@@ -1,0 +1,10 @@
+{
+  "key.categories.superpowers": "Super Powers",
+  "key.superpowers.dash": "Dash",
+  "key.superpowers.punch": "Power Punch",
+  "key.superpowers.slam": "Ground Slam",
+  "key.superpowers.flight": "Toggle Flight",
+  "message.superpowers.cooldown": "Cooldown: %s s",
+  "message.superpowers.flight_on": "Flight enabled",
+  "message.superpowers.flight_off": "Flight disabled"
+}
